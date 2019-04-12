@@ -14,9 +14,9 @@ TagManager:
   - 
   - 
   - PostProcessing
-  - Particles
-  - 
-  - 
+  - Background Particles
+  - Foreground UI
+  - Foreground Particles
   - 
   - 
   - 
@@ -49,4 +49,16 @@ TagManager:
     locked: 0
   - name: squares
     uniqueID: 462542137
+    locked: 0
+  - name: background UI
+    uniqueID: 3658957813
+    locked: 0
+  - name: background particles
+    uniqueID: 3897712699
+    locked: 0
+  - name: front UI
+    uniqueID: 2358865643
+    locked: 0
+  - name: front particles
+    uniqueID: 1720569291
     locked: 0
