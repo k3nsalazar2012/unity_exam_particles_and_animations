@@ -5,9 +5,6 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
-  - enabled: 0
-    path: 
-    guid: 00000000000000000000000000000000
   - enabled: 1
     path: Assets/Scenes/Browser.unity
     guid: 1599d731a48e38f4b885b59a82441ce1
@@ -20,4 +17,10 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/3. Speedlines and Tap.unity
     guid: ad16fa2aefb57c84d8f0e88a53369ed9
+  - enabled: 1
+    path: Assets/Scenes/4. Unlock, Swirl and Pixie Dust.unity
+    guid: dcd42344d7cb7344baf8b13cd6fc4361
+  - enabled: 1
+    path: Assets/Scenes/5. Trails, Vertical Speedlines and Floating Particles.unity
+    guid: 10291662b089a50489a2720feb5964e2
   m_configObjects: {}
